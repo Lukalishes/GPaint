@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\bin\Debug\paint.exe.config
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\bin\Debug\paint.exe
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\bin\Debug\paint.pdb
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\bin\Debug\paint.xml
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\obj\Debug\paint.Form1.resources
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\obj\Debug\paint.Resources.resources
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\obj\Debug\paint.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\obj\Debug\paint.exe
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\obj\Debug\paint.xml
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\obj\Debug\paint.pdb
+C:\Users\CCLC\Documents\LukeSweely\paint\paint\obj\Debug\paint.vbprojResolveAssemblyReference.cache
